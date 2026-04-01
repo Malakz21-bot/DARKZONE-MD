@@ -135,7 +135,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://imgur.com/a/UszNxr1"
+      "value": "file_000000007c7071fda5901df7fa1fc91c.png"
     },
     
     "DESCRIPTION": {
